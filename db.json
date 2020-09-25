@@ -1,0 +1,85 @@
+{
+  "products": [
+   {
+      "id": "2kwp",
+      "title": "2 KWp <span>Panel Surya<\/span>",
+      "reservationTitle": "2 KWP<br />SOLAR PANEL",
+      "size": "S",
+      "label": "Starter Kit",
+      "description": "<strong>Dilengkapi oleh<\/strong> PV Module 2000 Wp,<br/> Inverter On Grid 1600 Watt, Output Voltage 220",
+      "price": "Rp 35.246.803",
+      "credit": {
+         "totalMonths": 12,
+         "pricePerMonth": "3,8jt"
+      },
+      "requiredArea": "13,8m2",
+      "bep": 9,
+      "equalGeneratedEnergy": {
+         "airConditioner": "<strong>2 UNIT<\/strong> 1 PK",
+         "refrigrator": "<strong>1 UNIT<\/strong> 300W",
+         "led": "<strong>10 PCS<\/strong> 10W"
+      },
+      "benefits": {
+         "monthlySaving": "Rp. 250.000 - Rp. 350.000",
+         "annualGeneratedEnergy": "3.456 Watt",
+         "numberOfModules": "6 Unit",
+         "annualSaving": "Rp 4.200.000",
+         "twentyFiveYearsSaving": "Rp 105.000.000"
+      }
+   },
+   {
+      "id": "3kwp",
+      "title": "3 KWp <span>Panel Surya<\/span>",
+      "reservationTitle": "3 KWP<br />SOLAR PANEL",
+      "size": "M",
+      "label": "Most Popular",
+      "description": "<strong>Dilengkapi oleh<\/strong> PV Module 2000 Wp,<br/> Inverter On Grid 1600 Watt, Output Voltage 220",
+      "price": "Rp 51.757.025",
+      "credit": {
+         "totalMonths": 12,
+         "pricePerMonth": "5,1jt"
+      },
+      "requiredArea": "13,8m2",
+      "bep": 9,
+      "equalGeneratedEnergy": {
+         "airConditioner": "<strong>3 UNIT<\/strong> 1 PK",
+         "refrigrator": "<strong>1 UNIT<\/strong> 300W",
+         "led": "<strong>30 PCS<\/strong> 10W"
+      },
+      "benefits": {
+         "monthlySaving": "Rp. 400.000 - Rp. 500.000",
+         "annualGeneratedEnergy": "5.184 Watt",
+         "numberOfModules": "10 Unit",
+         "annualSaving": "Rp 6.000.000",
+         "twentyFiveYearsSaving": "Rp 150.000.000"
+      }
+   },
+   {
+      "id": "4kwp",
+      "title": "4 KWP <span>Panel Surya<\/span>",
+      "reservationTitle": "4 KWP<br />SOLAR PANEL",
+      "size": "L",
+      "label": "Most Efficient",
+      "description": "<strong>Dilengkapi oleh<\/strong> PV Module 4000 Wp,<br/> Inverter On Grid 1600 Watt, Output Voltage 220",
+      "price": "Rp 61.721.693",
+      "credit": {
+         "totalMonths": 12,
+         "pricePerMonth": "6jt"
+      },
+      "requiredArea": "27,6m2",
+      "bep": 7,
+      "equalGeneratedEnergy": {
+         "airConditioner": "<strong>4 Unit<\/strong> 1 PK",
+         "refrigrator": "<strong>2 Unit<\/strong> 300W",
+         "led": "<strong>20 PCS<\/strong> 10W"
+      },
+      "benefits": {
+         "monthlySaving": "Rp. 500.000 - Rp. 700.000",
+         "annualGeneratedEnergy": "6.912 Watt",
+         "numberOfModules": "12 Unit",
+         "annualSaving": "Rp 8.400.000",
+         "twentyFiveYearsSaving": "Rp 210.000.000"
+      }
+   }
+]
+}
